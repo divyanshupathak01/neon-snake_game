@@ -4,7 +4,7 @@
 A retro-style Snake game built with a dark cyberpunk aesthetic, glowing neon visual effects, and CRT scanline overlays.
 
 🕹️ PLAY THE GAME HERE
-(https://github.com/divyanshupathak01/neon-snake_game.git)
+ (https://divyanshupathak01.github.io/neon-snake_game/)
 
 ✨ Features
 
